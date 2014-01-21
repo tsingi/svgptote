@@ -16,6 +16,8 @@ Wikipedia won't allow it because has Javascript in it.  If I take the Javascript
 It could stand some improvements for general consumption.  
 It is a fixed size as is.  It could have other modes, like fullscreen, zoom levels, nothing complex.
 
+It uses desktop events, mouseover I think.  Adding tablet events should be easy enough.
+
 
 
 
